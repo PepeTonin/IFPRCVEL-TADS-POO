@@ -4,5 +4,5 @@
 ## Curso
 - TADS - 2° Ano - Programação Orientada a Objetos
 ## Links para as atividades
-- #### Notebook teste - AtvTeste
-  - [AtvTeste](AtvTeste)
+- #### [Notebook teste - AtvTeste](AtvTeste)
+
