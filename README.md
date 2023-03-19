@@ -2,6 +2,7 @@
 ## Aluno
 - Pedro Henrique de Avila Tonin
 ## Curso
-- TADS - Programação Orientada a Objetos
-### Notebook links
+- TADS - 2° Ano - Programação Orientada a Objetos
+### Links para as atividades
+#### Notebook teste - AtvTeste
 [AtvTeste](AtvTeste)
