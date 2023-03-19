@@ -4,4 +4,4 @@
 ## Curso
 - TADS - Programação Orientada a Objetos
 ### Notebook links
-[AtvTeste](AtvTeste\teste.md)
+[AtvTeste](AtvTeste)
