@@ -1,0 +1,3 @@
+### PASTA ONDE ESTÃO ARMAZENADOS OS ARQUIVOS QUE USEI PARA RESOLVER AS ATIVIDADES PROPOSTAS
+
+Apenas auxiliar, não precisa olhar nada aqui dentro
