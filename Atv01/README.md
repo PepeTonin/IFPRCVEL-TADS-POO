@@ -9,7 +9,7 @@ Para a resolução desta atividade realizei os sguinte passos:
 7. usei o objeto Scanner para receber esse valor digitado do usuario
 8. o valor digitado pelo usuario é acumulado na variavel acumuladora denominada 'soma'
 9. caso ocorra algum erro, usuario digitar algo não numério, por exemplo, cai no catch
-10. no catch o método 'nextLine' da classe Scanner faz com uma linha seja pulada, deixando o objeto pronto para receber a próxima entrada normalemnte
+10. no catch o método 'nextLine' da classe Scanner faz com uma linha seja pulada, deixando o objeto pronto para receber a próxima entrada normalmente
 11. ao final, a soma dos valores é mostrada na tela e a instancia da classe Scanner é fechada
 * a estrutura de repetição se encerra quando o usuário digita 0
 
