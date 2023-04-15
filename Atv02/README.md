@@ -1,5 +1,5 @@
 ### Atividade 02
-Para a resolução desta atividade realizei os sguinte passos:
+Para a resolução desta atividade realizei os seguinte passos:
 1. import da biblioteca Scanner da java.util
 2. dentro da classe main instanciei um objeto da classe Scanner
 3. exibe a mensagem solicitada

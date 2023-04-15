@@ -1,5 +1,5 @@
 ### Atividade 01
-Para a resolução desta atividade realizei os sguinte passos:
+Para a resolução desta atividade realizei os seguinte passos:
 1. import da biblioteca Scanner da java.util
 2. dentro da classe main declarei e inicializei duas variaveis do tipo double que serão usadas para resolver a atividade
 3. instanciei um objeto da classe Scanner
