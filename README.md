@@ -4,10 +4,10 @@
 ## Curso
 - TADS - 2° Ano - Programação Orientada a Objetos
 ## Links para as atividades
-- #### [Notebook teste - AtvTeste](AtvTeste/notebook/AtvTeste.ipynb)
-- #### [Notebook Atividade 01](Atv01/notebook/Atv01.ipynb)
-- #### [Notebook Atividade 02](Atv02/notebook/Atv02.ipynb)
+- #### [Notebook teste - AtvTeste](AtvTeste/AtvTeste.ipynb)
+- #### [Notebook Atividade 01](Atv01/Atv01.ipynb)
+- #### [Notebook Atividade 02](Atv02/Atv02.ipynb)
 - #### [Notebook Atividade 03](Atv03/)
-- #### [Notebook Atividade 04](Atv04/)
-- #### [Notebook Atividade 05](Atv05/)
+- #### [Notebook Atividade 04](Atv04/Atv04.ipynb)
+- #### [Notebook Atividade 05](Atv05/Atv05.ipynb)
 - #### [Notebook Atividade 06](Atv06/)
