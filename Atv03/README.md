@@ -4,7 +4,7 @@ Para a resolução desta atividade realizei os seguinte passos:
 2. dentro do main, primeiramente inicializei uma variável acumuladora com o valor 0
 3. realizei 3 try-catch para receber as 2 notas das provas e a nota do trabalho
 4. as entradas são acumuladas na variável acumuladora, usando o "+="
-5. em caso de erro oa receber a entrada, o sistema fecha (função: System.exit(0))
+5. em caso de erro ao receber a entrada, o sistema fecha (função: System.exit(0))
 6. no fim, uma varíavel é declarada e recebe o valor da soma das 3 entradas divido por 3, ou seja, a média
 7. o valor da média é mostrado e o programa encerra
 
