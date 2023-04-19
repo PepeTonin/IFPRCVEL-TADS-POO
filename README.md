@@ -10,4 +10,4 @@
 - #### [Notebook Atividade 03](Atv03/)
 - #### [Notebook Atividade 04](Atv04/Atv04.ipynb)
 - #### [Notebook Atividade 05](Atv05/Atv05.ipynb)
-- #### [Notebook Atividade 06](Atv06/)
+- #### [Notebook Atividade 06](Atv06/Atv06.ipynb)
